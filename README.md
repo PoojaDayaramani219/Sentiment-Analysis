@@ -18,10 +18,10 @@ NOTE: Those with Linux and MacOSX would have Python installed by default, no act
 
 Windows: Download the version for your laptop via https://www.python.org/downloads/
 
-The sentiment analysis has been done on amazon dataset.
-
 # Notes
 In your preferred editor, make sure indentation is set to "4 spaces". This code has been implemented in jupyter notebook.
+
+The sentiment analysis has been done on amazon dataset.
 
 # Install the following python packages for successful implementation
 --> Make sure you have Python and pip installed on your system before running the below commands.
