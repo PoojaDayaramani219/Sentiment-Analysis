@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-Sentiment analysis, also known as opinion mining, is a subfield of natural language processing (NLP) and machine learning that focuses on determining the sentiment or emotional tone of a piece of text. It aims to automatically analyze and categorize the sentiment expressed in a given text as positive, negative, neutral
+Sentiment analysis, also known as opinion mining, is a subfield of natural language processing (NLP) and machine learning that focuses on determining the sentiment or emotional tone of a piece of text. It aims to automatically analyze and categorize the sentiment expressed in a given text as positive, negative, neutral.
 
 # Process
 The process of sentiment analysis typically involves the following steps:
@@ -17,6 +17,8 @@ Your laptop with 3.6.x (onwards) installed.
 NOTE: Those with Linux and MacOSX would have Python installed by default, no action required.
 
 Windows: Download the version for your laptop via https://www.python.org/downloads/
+
+The sentiment analysis has been done on amazon dataset.
 
 # Notes
 In your preferred editor, make sure indentation is set to "4 spaces". This code has been implemented in jupyter notebook.
@@ -44,4 +46,10 @@ These libraries are commonly used for various data analysis, visualization, and 
 
 Note - 
 The re(Regular Expressions) module provides support for regular expressions, which are powerful tools for pattern matching and text manipulation.
+
+# Dataset
+
+You can get amazon.csv dataset from below url :
+
+https://drive.google.com/drive/u/2/folders/1P2o8qkCmwIPpkDNBrhjfhpnMYuChLgAn
 
